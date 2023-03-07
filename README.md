@@ -1,12 +1,8 @@
-# Project Title
+# WASH 
 
-A short description of your project
+A short description 
 
-## Project Description
 
-A more detailed description of your project, including its purpose, features, and benefits.
-
-![Screenshot of project](/path/to/screenshot)
 
 ## Installation
 
